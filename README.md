@@ -3,7 +3,7 @@ All data comes from the NLCD and the database provided in class
 
 Maps for field trip to measure tree canopy
 
-![Kentucky Counties](KyCounties.jpg)   
+![Kentucky Counties](CountiesofKentucky.jpg)   
 Kentucky counties with selected land cover types – [Download geospatial PDF](CountiesofKentucky.pdf)
 
 ![UKy Campus canopy model](TreeCanopy.jpg)   
